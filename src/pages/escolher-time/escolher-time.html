@@ -1,0 +1,68 @@
+<!--
+  Generated template for the EscolherTime page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+<!--
+  <ion-navbar>
+    <ion-title>EscolherTime</ion-title>
+  </ion-navbar>
+-->
+
+  <ion-navbar color="primary">
+    <!--
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+-->
+    <ion-title>
+      Vamos ZOAR
+    </ion-title>
+
+    <ion-buttons end>
+      <button ion-button icon-right (click)="next()">Avancar <ion-icon name="arrow-forward"></ion-icon></button>
+      <!--
+      <button ion-button icon-only (click)="doFbLogout()">
+        <ion-icon name="options"></ion-icon>
+      </button>
+      -->
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <form (ngSubmit)="goToMemes()">
+  <h1> Qual o seu time?</h1>
+  <ion-item>
+      <ion-label>Times</ion-label>
+      <ion-select okText="OK" cancelText="Cancelar" (ionChange)="onChange()">
+          <ion-option *ngFor="let Time of Times" value="{{Time.id}}">{{Time.nome}}</ion-option>
+      </ion-select>
+  </ion-item>
+<!--
+<select>
+  <option *ngFor="let Time of Times" value={{Time.id}}>
+    {{Time.nome}}
+  </option>
+</select>
+-->
+<h1> Quais times vamos zoar?</h1>
+<ion-grid>
+  <ion-row wrap>
+    <ion-col width-33 *ngFor="let Time of Times">
+      <ion-label><img src={{Time.escudo}} />{{Time.nome}}</ion-label>
+      <ion-toggle class="toggle-small" mode="ios"></ion-toggle>
+    </ion-col>
+  </ion-row>
+</ion-grid>
+
+<button ion-button type="submit" block> PRONTO </button>
+</form>
+
+
+</ion-content>

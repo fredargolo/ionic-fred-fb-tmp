@@ -1,0 +1,162 @@
+{
+  262: {
+    id: 262,
+    nome: "Flamengo",
+    abreviacao: "FLA",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/flamengo_30x30.png"
+    }
+  },
+  263: {
+    id: 263,
+    nome: "Botafogo",
+    abreviacao: "BOT",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/botafogo_30x30.png"
+    }
+  },
+  264: {
+    id: 264,
+    nome: "Corinthians",
+    abreviacao: "COR",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/corinthians_30x30.png"
+    }
+  },
+  265: {
+    id: 265,
+    nome: "Bahia",
+    abreviacao: "BAH",
+    escudo: ""
+  },
+  266: {
+    id: 266,
+    nome: "Fluminense",
+    abreviacao: "FLU",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/Fluminense-escudo.png"
+    }
+  },
+  267: {
+    id: 267,
+    nome: "Vasco",
+    abreviacao: "VAS",
+    escudo: ""
+    }
+  },
+  275: {
+    id: 275,
+    nome: "Palmeiras",
+    abreviacao: "PAL",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/palmeiras_30x30.png"
+    }
+  },
+  276: {
+    id: 276,
+    nome: "São Paulo",
+    abreviacao: "SAO",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/sao_paulo_30x30.png"
+    }
+  },
+  277: {
+    id: 277,
+    nome: "Santos",
+    abreviacao: "SAN",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/santos_30x30.png"
+    }
+  },
+  282: {
+    id: 282,
+    nome: "Atlético-MG",
+    abreviacao: "ATL",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/atletico_mg_30x30.png"
+    }
+  },
+  283: {
+    id: 283,
+    nome: "Cruzeiro",
+    abreviacao: "CRU",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_30.png"
+    }
+  },
+  284: {
+    id: 284,
+    nome: "Grêmio",
+    abreviacao: "GRE",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/gremio_30x30.png"
+    }
+  },
+  285: {
+    id: 285,
+    nome: "Internacional",
+    abreviacao: "INT",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter30.png"
+    }
+  },
+  287: {
+    id: 287,
+    nome: "Vitória",
+    abreviacao: "VIT",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/vitoria_30x30.png"
+    }
+  },
+  292: {
+    id: 292,
+    nome: "Sport",
+    abreviacao: "SPO",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport30.png"
+    }
+  },
+  293: {
+    id: 293,
+    nome: "Atlético-PR",
+    abreviacao: "ATL",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_30.png"
+    }
+  },
+  294: {
+    id: 294,
+    nome: "Coritiba",
+    abreviacao: "COR",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/coritiba_30x30.png"
+    }
+  },
+  303: {
+    id: 303,
+    nome: "Ponte Preta",
+    abreviacao: "PON",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/ponte_preta_30x30.png"
+    }
+  },
+  315: {
+    id: 315,
+    nome: "Chapecoense",
+    abreviacao: "CHA",
+    escudo: "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-130.png"
+    }
+  },
+  316: {
+  id: 316,
+  nome: "Figueirense",
+  abreviacao: "FIG",
+  escudo: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/figueirense_30x30.png"
+  }
+  },
+343: {
+  id: 343,
+  nome: "Náutico",
+  abreviacao: "NAU",
+  escudo: ""
+  }
+},
+344: {
+  id: 344,
+  nome: "Santa Cruz",
+  abreviacao: "STC",
+  escudo: "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santa_cruz_30x30.png"
+  }
+},
+354: {
+  id: 354,
+  nome: "Ceará",
+  abreviacao: "CEA",
+  escudo: ""
+  }
+ }
+}
